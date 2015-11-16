@@ -1,2 +1,2 @@
 # TS
-# This is training for using github
+## Training using github
